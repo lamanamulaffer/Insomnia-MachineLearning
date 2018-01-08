@@ -26,4 +26,4 @@ Files in the folder and brief description:
 5. generate_folds.py  divides data into training and test sets for cross validation while ensuring an even balance of demographics between the folds
 6. pipeline_other.py uses grid search for best parameters, visualizes the effectiveness of each feature and uses this to reduce dimenionality; dimensionality reduction done by both SelectKBest and PCA, and trains data based on multiple models; Logistic Regression, RandomForestClassifier, MultinomialNB
 7. pipeline_svm.py selects best features, perform grid search for best parameters and trains an SVM based model with cross validation
-
+Collaborators: Mustafa Shahin
